@@ -1,0 +1,25 @@
+{
+  "name": "my-express",
+  "version": "1.0.0",
+  "description": "express test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test!!!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkals87/express.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "hami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkals87/express/issues"
+  },
+  "homepage": "https://github.com/gkals87/express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
